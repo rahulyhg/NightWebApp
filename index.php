@@ -22,7 +22,7 @@
 	<title>Blazen | Coming Soon</title>
 
 </head>
-<body style="margin:0;">
+<body style="margin:0;text-align:center;">
 <img src="image.jpg" style="width:100%;height:auto;max-width:1500px;"/>
 </body>
 
