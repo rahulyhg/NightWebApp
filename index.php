@@ -11,6 +11,7 @@
 	<meta property="og:site_name" content="Blazen">
 	<meta property="og:title" content="Blazen" />
 	<meta property="og:description" content="Build Android &amp; iOS Application in 3 steps." />
+	<meta property="og:image" content="http://blazen.io/logo.png" />
 	<meta property="og:type" content="website" />
 
 	<meta name="twitter:card" content="summary">
